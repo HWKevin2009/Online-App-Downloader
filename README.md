@@ -4,6 +4,8 @@ A VS2022 .NET 4.7.2 C# Windows Form Application for downloading an online file; 
 HOW TO USE: Download the app (or just download the whole folder)
 and just run the EXE FILE
 
+*Please use the latest version (release) because it's being constantly upgraded so old versions can be unstable and buggy.
+
 path: Online App Downloader\bin\Debug\Online App Downloader.exe
 
 NOTE: App name and the main screen name is different.
@@ -16,6 +18,8 @@ NOTE: App name and the main screen name is different.
 
 사용방법: 앱을 다운로드한다 (폴더 전체를 다운로드할수도)
 그리고 .exe 파일을 실행시킨다
+
+*가능하면 가장 최근의 버전 (릴리즈) 를 사용하세요, 이 앱은 계속 개발되고 있고, 패치되지 않은 버그 등이 문제될 수 있습니다.
 
 경로: Online App Downloader\bin\Debug\Online App Downloader.exe
 
