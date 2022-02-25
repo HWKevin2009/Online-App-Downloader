@@ -13,6 +13,8 @@ NOTE: App name and the main screen name is different.
 
 *If you click the label1 (the title), it will open a browser connecting to this website.
 
+[[Why don't you download the app with the app?]]
+
 [한국어 번역]
 비주얼 스튜디오 2022로 만든 온라인의 파일(웹사이트 소스코드 html도)을 다운로드하는 데에 사용할 C# 윈도우 폼 앱
 
@@ -27,3 +29,5 @@ NOTE: App name and the main screen name is different.
           !!!! 앱이 백신 또는 방화벽에 의해 작업할 수 없을 수 있음, 그럴 경우에는 빈 파일이나 에러 메시지를 결과로 만듦
 
 *만일 label1 (타이틀)을 클릭한다면, 앱은 이 사이트를 브라우저로 열 것입니다
+
+[[앱으로 앱을 다운로드 하는 건 어떨까요?]]
